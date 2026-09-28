@@ -18,7 +18,7 @@ A small desktop app (Tkinter GUI) that downloads comics from [xkcd.com](https://
 - Feal free to do whatever you want with it.
 - If you enjoyed it please star it.
 - To veiw the EPUB use and EPUB vewing softwere but it is desined to be sent to a Ereader to be read.
-- I have also  attached a version that is compiled to windows (it's a exe) just downloaded it and run it with no other installs needed. (It uses pyinstler)
+- I have also attached a version that is compiled to windows (it's a exe) just download it and run it with no other installation needed. (It uses PyInstaller)
 - Have fun.
 
 ## How it works
